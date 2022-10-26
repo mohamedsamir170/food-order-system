@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\mohab tarek\Desktop\food order system last edition\food order system\Source.cpp(147,11): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\mohab tarek\Desktop\food order system last edition\food order system\Source.cpp(177,11): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\mohab tarek\Desktop\food order system last edition\food order system\Source.cpp(383,12): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\mohab tarek\Desktop\food order system last edition\food order system\Source.cpp(457,10): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\mohab tarek\Desktop\food order system last edition\food order system\Source.cpp(471,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  food order system.vcxproj -> C:\Users\mohab tarek\Desktop\food order system last edition\x64\Debug\food order system.exe
